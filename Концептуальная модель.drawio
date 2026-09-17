@@ -1,23 +1,52 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="J56Kwc1LA9AsRYNvVpBp">
-    <mxGraphModel dx="915" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yT7ji5QpnpLoxUNB_qSA-1" parent="1" style="whiteSpace=wrap;html=1;align=center;imageWidth=24;imageHeight=24;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="Авиакомпания" vertex="1">
           <mxGeometry height="50" width="120" x="360" y="70" as="geometry" />
         </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-76" edge="1" parent="1" source="yT7ji5QpnpLoxUNB_qSA-4" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="sQia-kG_IBfRHQ_7c5ag-51" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-103" connectable="0" parent="sQia-kG_IBfRHQ_7c5ag-76" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1,1" vertex="1">
+          <mxGeometry relative="1" x="-0.3289" y="4" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yT7ji5QpnpLoxUNB_qSA-4" parent="1" style="whiteSpace=wrap;html=1;align=center;imageWidth=24;imageHeight=24;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="Тип самолета" vertex="1">
-          <mxGeometry height="50" width="120" x="90" y="600" as="geometry" />
+          <mxGeometry height="50" width="120" x="374" y="570" as="geometry" />
         </mxCell>
-        <mxCell id="yT7ji5QpnpLoxUNB_qSA-6" parent="1" style="whiteSpace=wrap;html=1;align=center;imageWidth=24;imageHeight=24;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="Аэропорт (прибытия)" vertex="1">
-          <mxGeometry height="50" width="120" x="607" y="390" as="geometry" />
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-65" edge="1" parent="1" source="yT7ji5QpnpLoxUNB_qSA-6" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="sQia-kG_IBfRHQ_7c5ag-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yT7ji5QpnpLoxUNB_qSA-7" parent="1" style="whiteSpace=wrap;html=1;align=center;imageWidth=24;imageHeight=24;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="Аэропорт (отправления)" vertex="1">
-          <mxGeometry height="50" width="120" x="100" y="400" as="geometry" />
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-99" connectable="0" parent="sQia-kG_IBfRHQ_7c5ag-65" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1,1" vertex="1">
+          <mxGeometry relative="1" x="0.7867" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-72" edge="1" parent="1" source="yT7ji5QpnpLoxUNB_qSA-6" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="sQia-kG_IBfRHQ_7c5ag-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-101" connectable="0" parent="sQia-kG_IBfRHQ_7c5ag-72" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1,1" vertex="1">
+          <mxGeometry relative="1" x="0.6313" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yT7ji5QpnpLoxUNB_qSA-6" parent="1" style="whiteSpace=wrap;html=1;align=center;imageWidth=24;imageHeight=24;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="Аэропорт" vertex="1">
+          <mxGeometry height="50" width="120" x="650" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-77" edge="1" parent="1" source="yT7ji5QpnpLoxUNB_qSA-9" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="sQia-kG_IBfRHQ_7c5ag-51" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-104" connectable="0" parent="sQia-kG_IBfRHQ_7c5ag-77" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="0,N" vertex="1">
+          <mxGeometry relative="1" x="-0.6711" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yT7ji5QpnpLoxUNB_qSA-9" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;span style=&quot;&quot;&gt;Экземпляр самолета&lt;/span&gt;" vertex="1">
-          <mxGeometry height="50" width="120" x="360" y="560" as="geometry" />
+          <mxGeometry height="50" width="120" x="46" y="570" as="geometry" />
         </mxCell>
         <mxCell id="yT7ji5QpnpLoxUNB_qSA-11" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;span style=&quot;&quot;&gt;Рейс&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="120" x="360" y="340" as="geometry" />
@@ -34,47 +63,38 @@
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;text-align: start;&quot;&gt;code&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="100" x="520" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="sQia-kG_IBfRHQ_7c5ag-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;text-align: start;&quot;&gt;name&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="10" y="460" as="geometry" />
-        </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;text-align: start;&quot;&gt;name&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="590" y="460" as="geometry" />
-        </mxCell>
-        <mxCell id="sQia-kG_IBfRHQ_7c5ag-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;text-align: start;&quot;&gt;iata_code&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="130" y="460" as="geometry" />
+          <mxGeometry height="40" width="100" x="617" y="500" as="geometry" />
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;text-align: start;&quot;&gt;iata_code&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="100" x="727" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="sQia-kG_IBfRHQ_7c5ag-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;text-align: start;&quot;&gt;adress&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="10" y="330" as="geometry" />
-        </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;text-align: start;&quot;&gt;adress&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="720" y="330" as="geometry" />
+          <mxGeometry height="40" width="100" x="710" y="520" as="geometry" />
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;text-align: start;&quot;&gt;model&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="20" y="680" as="geometry" />
+          <mxGeometry height="40" width="100" x="430" y="530" as="geometry" />
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;text-align: start;&quot;&gt;seating_capacity&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="100" y="740" as="geometry" />
+          <mxGeometry height="40" width="100" x="330" y="648" as="geometry" />
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;text-align: start;&quot;&gt;distance&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="170" y="670" as="geometry" />
+          <mxGeometry height="40" width="100" x="440" y="640" as="geometry" />
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;text-align: start;&quot;&gt;reg_number&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="530" y="565" as="geometry" />
+          <mxGeometry height="40" width="100" x="140" y="640" as="geometry" />
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;text-align: start;&quot;&gt;flight_number&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="250" y="250" as="geometry" />
+          <mxGeometry height="40" width="100" x="230" y="230" as="geometry" />
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;text-align: start;&quot;&gt;departure_time&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="250" y="300" as="geometry" />
+          <mxGeometry height="40" width="100" x="110" y="260" as="geometry" />
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;text-align: start;&quot;&gt;arrival_time&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="250" y="350" as="geometry" />
+          <mxGeometry height="40" width="100" x="170" y="415" as="geometry" />
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;text-align: start;&quot;&gt;status&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="250" y="400" as="geometry" />
+          <mxGeometry height="40" width="100" x="100" y="313" as="geometry" />
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;text-align: start;&quot;&gt;passport_number&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="100" x="560" y="1110" as="geometry" />
@@ -95,58 +115,217 @@
           <mxGeometry height="40" width="100" x="430" y="1129" as="geometry" />
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;text-align: start;&quot;&gt;ticket_number&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="560" y="900" as="geometry" />
+          <mxGeometry height="40" width="100" x="510" y="870" as="geometry" />
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-28" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;text-align: start;&quot;&gt;price&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="180" y="910" as="geometry" />
+          <mxGeometry height="40" width="100" x="215" y="870" as="geometry" />
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;text-align: start;&quot;&gt;seat_number&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="180" y="840" as="geometry" />
+          <mxGeometry height="40" width="100" x="210" y="820" as="geometry" />
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-30" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="&lt;div style=&quot;text-align: start;&quot;&gt;service_class&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="560" y="840" as="geometry" />
+          <mxGeometry height="40" width="100" x="507" y="810" as="geometry" />
         </mxCell>
-        <mxCell id="sQia-kG_IBfRHQ_7c5ag-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" value="airline_id" vertex="1">
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fontColor=light-dark(#000000,#000000);strokeColor=default;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="airline_id" vertex="1">
           <mxGeometry height="40" width="100" x="370" as="geometry" />
         </mxCell>
-        <mxCell id="sQia-kG_IBfRHQ_7c5ag-34" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" value="airport_id" vertex="1">
-          <mxGeometry height="40" width="100" x="120" y="330" as="geometry" />
-        </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" value="airport_id" vertex="1">
-          <mxGeometry height="40" width="100" x="607" y="330" as="geometry" />
+          <mxGeometry height="40" width="100" x="710" y="330" as="geometry" />
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-36" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" value="aircraft_type_id" vertex="1">
-          <mxGeometry height="40" width="100" x="100" y="545" as="geometry" />
+          <mxGeometry height="40" width="100" x="320" y="530" as="geometry" />
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-37" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" value="aircraft_id" vertex="1">
-          <mxGeometry height="40" width="100" x="420" y="640" as="geometry" />
+          <mxGeometry height="40" width="100" x="90" y="688" as="geometry" />
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-38" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" value="flight_id" vertex="1">
-          <mxGeometry height="40" width="100" x="370" y="280" as="geometry" />
+          <mxGeometry height="40" width="100" x="90" y="365" as="geometry" />
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-39" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" value="passenger_id" vertex="1">
-          <mxGeometry height="40" width="100" x="370" y="990" as="geometry" />
+          <mxGeometry height="40" width="100" x="507" y="990" as="geometry" />
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-40" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);" value="ticket_id" vertex="1">
-          <mxGeometry height="40" width="100" x="370" y="920" as="geometry" />
+          <mxGeometry height="40" width="100" x="240" y="930" as="geometry" />
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FF0000);fontColor=light-dark(#000000,#000000);dashed=1;" value="&lt;div style=&quot;text-align: start;&quot;&gt;airline_id&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="440" y="500" as="geometry" />
+          <mxGeometry height="40" width="100" x="10" y="640" as="geometry" />
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-42" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FF0000);fontColor=light-dark(#000000,#000000);dashed=1;" value="&lt;div style=&quot;text-align: start;&quot;&gt;aircraft_type_id&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="300" y="500" as="geometry" />
+          <mxGeometry height="40" width="100" x="70" y="490" as="geometry" />
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-43" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FF0000);fontColor=light-dark(#000000,#000000);dashed=1;" value="&lt;div style=&quot;text-align: start;&quot;&gt;arrival_airport_id&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="110" x="480" y="260" as="geometry" />
+          <mxGeometry height="40" width="110" x="210" y="290" as="geometry" />
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-44" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FF0000);fontColor=light-dark(#000000,#000000);dashed=1;" value="&lt;div style=&quot;text-align: start;&quot;&gt;departure_airport_id&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="131" x="354.5" y="420" as="geometry" />
+          <mxGeometry height="40" width="131" x="215" y="330" as="geometry" />
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-45" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FF0000);fontColor=light-dark(#000000,#000000);dashed=1;" value="&lt;div style=&quot;text-align: start;&quot;&gt;airline_id&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="489" y="380" as="geometry" />
+          <mxGeometry height="40" width="100" x="507" y="340" as="geometry" />
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-46" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FF0000);fontColor=light-dark(#000000,#000000);dashed=1;" value="&lt;div style=&quot;text-align: start;&quot;&gt;aircraft_id&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="489" y="320" as="geometry" />
+          <mxGeometry height="40" width="100" x="205" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-47" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="выполняет" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-48" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="отправляется из" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-49" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="прибывает в" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-51" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="имеет" vertex="1">
+          <mxGeometry height="60" width="120" x="210" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-52" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="владеет" vertex="1">
+          <mxGeometry height="60" width="120" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-54" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="выполняется" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="452" as="geometry" />
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-55" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="приобретает" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-56" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="включает" vertex="1">
+          <mxGeometry height="60" width="120" x="597" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-58" edge="1" parent="1" source="sQia-kG_IBfRHQ_7c5ag-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="sQia-kG_IBfRHQ_7c5ag-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-66" edge="1" parent="1" source="sQia-kG_IBfRHQ_7c5ag-48" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.608;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=none;curved=0;endArrow=none;endFill=0;" target="yT7ji5QpnpLoxUNB_qSA-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-81" edge="1" parent="1" source="sQia-kG_IBfRHQ_7c5ag-52" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="434.38" as="sourcePoint" />
+            <mxPoint x="60" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-106" connectable="0" parent="sQia-kG_IBfRHQ_7c5ag-81" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="0,N" vertex="1">
+          <mxGeometry relative="1" x="0.8214" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-82" edge="1" parent="1" source="yT7ji5QpnpLoxUNB_qSA-1" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="sQia-kG_IBfRHQ_7c5ag-52" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="460" as="sourcePoint" />
+            <mxPoint x="580" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-105" connectable="0" parent="sQia-kG_IBfRHQ_7c5ag-82" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1,1" vertex="1">
+          <mxGeometry relative="1" x="0.8371" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-83" edge="1" parent="1" source="yT7ji5QpnpLoxUNB_qSA-11" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="sQia-kG_IBfRHQ_7c5ag-48" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="460" as="sourcePoint" />
+            <mxPoint x="580" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-100" connectable="0" parent="sQia-kG_IBfRHQ_7c5ag-83" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="0,N" vertex="1">
+          <mxGeometry relative="1" x="-0.2814" y="-1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-84" edge="1" parent="1" source="sQia-kG_IBfRHQ_7c5ag-47" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="yT7ji5QpnpLoxUNB_qSA-1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="280" as="sourcePoint" />
+            <mxPoint x="580" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-97" connectable="0" parent="sQia-kG_IBfRHQ_7c5ag-84" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1,1" vertex="1">
+          <mxGeometry relative="1" x="-0.565" as="geometry">
+            <mxPoint x="10" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-85" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yT7ji5QpnpLoxUNB_qSA-11" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="280" as="sourcePoint" />
+            <mxPoint x="580" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-98" connectable="0" parent="sQia-kG_IBfRHQ_7c5ag-85" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="0,N" vertex="1">
+          <mxGeometry relative="1" x="0.2083" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-87" edge="1" parent="1" source="sQia-kG_IBfRHQ_7c5ag-54" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yT7ji5QpnpLoxUNB_qSA-9" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="510" as="sourcePoint" />
+            <mxPoint x="90" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-107" connectable="0" parent="sQia-kG_IBfRHQ_7c5ag-87" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1,1" vertex="1">
+          <mxGeometry relative="1" x="-0.693" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-88" edge="1" parent="1" source="sQia-kG_IBfRHQ_7c5ag-54" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="yT7ji5QpnpLoxUNB_qSA-11" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="510" as="sourcePoint" />
+            <mxPoint x="580" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-108" connectable="0" parent="sQia-kG_IBfRHQ_7c5ag-88" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="0,N" vertex="1">
+          <mxGeometry relative="1" x="0.3727" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-89" edge="1" parent="1" source="yT7ji5QpnpLoxUNB_qSA-12" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="sQia-kG_IBfRHQ_7c5ag-55" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="920" as="sourcePoint" />
+            <mxPoint x="580" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-112" connectable="0" parent="sQia-kG_IBfRHQ_7c5ag-89" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="0,N" vertex="1">
+          <mxGeometry relative="1" x="-0.47" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-90" edge="1" parent="1" source="sQia-kG_IBfRHQ_7c5ag-55" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="sQia-kG_IBfRHQ_7c5ag-1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="920" as="sourcePoint" />
+            <mxPoint x="580" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-111" connectable="0" parent="sQia-kG_IBfRHQ_7c5ag-90" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1,1" vertex="1">
+          <mxGeometry relative="1" x="-0.525" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-93" edge="1" parent="1" source="yT7ji5QpnpLoxUNB_qSA-11" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="sQia-kG_IBfRHQ_7c5ag-56" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="580" as="sourcePoint" />
+            <mxPoint x="580" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-109" connectable="0" parent="sQia-kG_IBfRHQ_7c5ag-93" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1,1" vertex="1">
+          <mxGeometry relative="1" x="0.7609" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-94" edge="1" parent="1" source="sQia-kG_IBfRHQ_7c5ag-49" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="yT7ji5QpnpLoxUNB_qSA-11" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="580" as="sourcePoint" />
+            <mxPoint x="580" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-102" connectable="0" parent="sQia-kG_IBfRHQ_7c5ag-94" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="0,N" vertex="1">
+          <mxGeometry relative="1" x="-0.2791" y="-1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-95" edge="1" parent="1" source="yT7ji5QpnpLoxUNB_qSA-12" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="sQia-kG_IBfRHQ_7c5ag-56" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="580" as="sourcePoint" />
+            <mxPoint x="580" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-110" connectable="0" parent="sQia-kG_IBfRHQ_7c5ag-95" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="0,N" vertex="1">
+          <mxGeometry relative="1" x="-0.7671" y="2" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
