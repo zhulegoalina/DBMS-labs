@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="J56Kwc1LA9AsRYNvVpBp">
+    <mxGraphModel dx="1030" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yT7ji5QpnpLoxUNB_qSA-1" parent="1" style="whiteSpace=wrap;html=1;align=center;imageWidth=24;imageHeight=24;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="Авиакомпания" vertex="1">
+          <mxGeometry height="50" width="120" x="350" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="yT7ji5QpnpLoxUNB_qSA-4" parent="1" style="whiteSpace=wrap;html=1;align=center;imageWidth=24;imageHeight=24;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="Тип самолета" vertex="1">
+          <mxGeometry height="50" width="120" x="560" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="yT7ji5QpnpLoxUNB_qSA-6" parent="1" style="whiteSpace=wrap;html=1;align=center;imageWidth=24;imageHeight=24;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="Аэропорт (прибытия)" vertex="1">
+          <mxGeometry height="50" width="120" x="560" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="yT7ji5QpnpLoxUNB_qSA-7" parent="1" style="whiteSpace=wrap;html=1;align=center;imageWidth=24;imageHeight=24;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);" value="Аэропорт (отправления)" vertex="1">
+          <mxGeometry height="50" width="120" x="350" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="yT7ji5QpnpLoxUNB_qSA-9" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;span style=&quot;&quot;&gt;Экземпляр самолета&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="350" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="yT7ji5QpnpLoxUNB_qSA-11" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;span style=&quot;&quot;&gt;Рейс&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="160" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="yT7ji5QpnpLoxUNB_qSA-12" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="&lt;span style=&quot;&quot;&gt;Билет&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="160" y="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
