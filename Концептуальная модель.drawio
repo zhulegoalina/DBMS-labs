@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="J56Kwc1LA9AsRYNvVpBp">
-    <mxGraphModel dx="2289" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1717" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-99" connectable="0" parent="sQia-kG_IBfRHQ_7c5ag-65" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1,1" vertex="1">
           <mxGeometry relative="1" x="0.7867" y="-1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="3" y="66" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-72" edge="1" parent="1" source="yT7ji5QpnpLoxUNB_qSA-6" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="sQia-kG_IBfRHQ_7c5ag-49">
@@ -31,7 +31,7 @@
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-101" connectable="0" parent="sQia-kG_IBfRHQ_7c5ag-72" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1,1" vertex="1">
           <mxGeometry relative="1" x="0.6313" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="25" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yT7ji5QpnpLoxUNB_qSA-6" parent="1" style="whiteSpace=wrap;html=1;align=center;imageWidth=24;imageHeight=24;strokeColor=light-dark(#000000,#000000);fillColor=light-dark(#FFFFFF,#FF8000);fontColor=light-dark(#000000,#000000);" value="Аэропорт" vertex="1">
@@ -195,7 +195,7 @@
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-66" edge="1" parent="1" source="sQia-kG_IBfRHQ_7c5ag-48" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.608;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=none;curved=0;endArrow=none;endFill=0;" target="yT7ji5QpnpLoxUNB_qSA-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sQia-kG_IBfRHQ_7c5ag-81" edge="1" parent="1" source="sQia-kG_IBfRHQ_7c5ag-52" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+        <mxCell id="sQia-kG_IBfRHQ_7c5ag-81" edge="1" parent="1" source="sQia-kG_IBfRHQ_7c5ag-52" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.108;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" target="yT7ji5QpnpLoxUNB_qSA-9" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="30" y="434.38" as="sourcePoint" />
             <mxPoint x="60" y="580" as="targetPoint" />
@@ -214,7 +214,7 @@
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-105" connectable="0" parent="sQia-kG_IBfRHQ_7c5ag-82" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1,1" vertex="1">
           <mxGeometry relative="1" x="0.8371" y="-4" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="206" y="-60" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-83" edge="1" parent="1" source="yT7ji5QpnpLoxUNB_qSA-11" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="sQia-kG_IBfRHQ_7c5ag-48" value="">
@@ -236,7 +236,7 @@
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-97" connectable="0" parent="sQia-kG_IBfRHQ_7c5ag-84" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1,1" vertex="1">
           <mxGeometry relative="1" x="-0.565" as="geometry">
-            <mxPoint x="10" y="11" as="offset" />
+            <mxPoint x="11" y="-58" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-85" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yT7ji5QpnpLoxUNB_qSA-11" value="">
@@ -280,7 +280,7 @@
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-112" connectable="0" parent="sQia-kG_IBfRHQ_7c5ag-89" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="0,N" vertex="1">
           <mxGeometry relative="1" x="-0.47" y="3" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="10" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-90" edge="1" parent="1" source="sQia-kG_IBfRHQ_7c5ag-55" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="sQia-kG_IBfRHQ_7c5ag-1" value="">
@@ -291,7 +291,7 @@
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-111" connectable="0" parent="sQia-kG_IBfRHQ_7c5ag-90" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1,1" vertex="1">
           <mxGeometry relative="1" x="-0.525" y="-3" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="17" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-93" edge="1" parent="1" source="yT7ji5QpnpLoxUNB_qSA-11" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="sQia-kG_IBfRHQ_7c5ag-56" value="">
@@ -302,7 +302,7 @@
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-109" connectable="0" parent="sQia-kG_IBfRHQ_7c5ag-93" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1,1" vertex="1">
           <mxGeometry relative="1" x="0.7609" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-168" y="-127" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sQia-kG_IBfRHQ_7c5ag-94" edge="1" parent="1" source="sQia-kG_IBfRHQ_7c5ag-49" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="yT7ji5QpnpLoxUNB_qSA-11" value="">
